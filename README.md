@@ -56,5 +56,4 @@ La computadora eligió Papel:
 ✅ **Código resaltado** para los comandos.  
 ✅ **Pasos numerados** para una mejor experiencia de lectura.  
 
-Este README se verá genial en GitHub. 🚀🔥 ¡Si necesitas más cambios, dime! 😃
 
