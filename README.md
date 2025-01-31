@@ -16,7 +16,7 @@ Un juego clásico de **Piedra, Papel o Tijeras** desarrollado en **Python** con 
 
 ### Clonar el repositorio  
 ```sh
-git clone https://github.com/TU_USUARIO/rockPaperScissors.py.git
+git clone https://github.com/SrCidm/rockPaperScissors.py.git
 cd rockPaperScissors.py
 
 🎮 Cómo jugar
