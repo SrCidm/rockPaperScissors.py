@@ -1,34 +1,33 @@
-🪨📄✂️ Piedra, Papel o Tijeras - Juego en Python 🎮
-Un juego clásico de Piedra, Papel o Tijeras desarrollado en Python con soporte multilingüe (Español e Inglés) y representaciones gráficas en ASCII Art.
+# 🪨📄✂️ Piedra, Papel o Tijeras - Juego en Python 🎮  
 
-🚀 Características
-✅ Soporte en inglés y español (el usuario elige el idioma al inicio).
-✅ Representación en ASCII Art de las manos con piedra, papel y tijeras.
-✅ Sistema de puntuación para contar las victorias del usuario y la computadora.
-✅ Interfaz en línea de comandos fácil de usar.
+Un juego clásico de **Piedra, Papel o Tijeras** desarrollado en **Python** con soporte multilingüe (**Español e Inglés**) y representaciones gráficas en **ASCII Art**.  
 
-🛠 Instalación
-Clonar el repositorio
-sh
-Copiar
-Editar
+---
+
+## 🚀 Características  
+✅ **Soporte en inglés y español** (el usuario elige el idioma al inicio).  
+✅ **Representación en ASCII Art** de las manos con piedra, papel y tijeras.  
+✅ **Sistema de puntuación** para contar las victorias del usuario y la computadora.  
+✅ **Interfaz en línea de comandos** fácil de usar.  
+
+---
+
+## 🛠 Instalación  
+
+### Clonar el repositorio  
+```sh
 git clone https://github.com/TU_USUARIO/piedra-papel-tijeras.git
 cd piedra-papel-tijeras
-Ejecutar el script
-sh
-Copiar
-Editar
-python3 juego.py
+
 🎮 Cómo jugar
-Al iniciar, elige el idioma: Español o Inglés.
-Ingresa "Piedra", "Papel" o "Tijeras" (o en inglés: "Rock", "Paper", "Scissors").
-La computadora hará su elección y se mostrará el resultado en ASCII Art.
-¡Juega tantas veces como quieras! Para salir, ingresa "Q".
-Al final, se mostrará el total de victorias.
+1️⃣ Al iniciar, elige el idioma: Español o Inglés.
+2️⃣ Ingresa "Piedra", "Papel" o "Tijeras" (o en inglés: "Rock", "Paper", "Scissors").
+3️⃣ La computadora hará su elección y se mostrará el resultado en ASCII Art.
+4️⃣ ¡Juega tantas veces como quieras! Para salir, ingresa "Q".
+5️⃣ Al final, se mostrará el total de victorias.
+
 📷 Ejemplo de ejecución
-lua
-Copiar
-Editar
+
 ¿Quieres jugar en inglés o en español? (inglés/español): español
 Elige Piedra, Papel o Tijeras, o Q para salir: piedra
 
@@ -49,3 +48,13 @@ La computadora eligió Papel:
     ---.__________)
 
 ¡Perdiste!
+
+
+### Mejoras en este README:
+✅ **Uso de emojis** para mayor atractivo visual.  
+✅ **Formato Markdown limpio** y bien estructurado.  
+✅ **Código resaltado** para los comandos.  
+✅ **Pasos numerados** para una mejor experiencia de lectura.  
+
+Este README se verá genial en GitHub. 🚀🔥 ¡Si necesitas más cambios, dime! 😃
+
